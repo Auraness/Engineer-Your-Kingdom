@@ -57,7 +57,7 @@ while running:
 
     run = True
     while run:
-        imp = pygame.image.load("C:\\Users\\aurac\\Downloads\\Game\\logo.png").convert()
+        imp = pygame.image.load("logo.png").convert()
         screen.blit(imp, (0, 0))
         pygame.display.flip()
 
@@ -178,7 +178,7 @@ while running:
 
     run = True
     while run:
-        imp = pygame.image.load("C:\\Users\\aurac\\Downloads\\Game\\1 star.png").convert()
+        imp = pygame.image.load("1 star.png").convert()
         screen.blit(imp, (0, 0))
         pygame.display.flip()
 
@@ -299,7 +299,7 @@ while running:
 
     run = True
     while run:
-        imp = pygame.image.load("C:\\Users\\aurac\\Downloads\\Game\\2 stars.png").convert()
+        imp = pygame.image.load("2 stars.png").convert()
         screen.blit(imp, (0, 0))
         pygame.display.flip()
 
@@ -415,7 +415,7 @@ while running:
 
     run = True
     while run:
-        imp = pygame.image.load("C:\\Users\\aurac\\Downloads\\Game\\3 stars.png").convert()
+        imp = pygame.image.load("3 stars.png").convert()
         screen.blit(imp, (0, 0))
         pygame.display.flip()
 
@@ -536,7 +536,7 @@ while running:
 
     run = True
     while run:
-        imp = pygame.image.load("C:\\Users\\aurac\\Downloads\\Game\\4 stars.png").convert()
+        imp = pygame.image.load("4 stars.png").convert()
         screen.blit(imp, (0, 0))
         pygame.display.flip()
 
@@ -652,7 +652,7 @@ while running:
 
     run = True
     while run:
-        imp = pygame.image.load("C:\\Users\\aurac\\Downloads\\Game\\5 stars.png").convert()
+        imp = pygame.image.load("5 stars.png").convert()
         screen.blit(imp, (0, 0))
         pygame.display.flip()
 
@@ -773,7 +773,7 @@ while running:
 
     run = True
     while run:
-        imp = pygame.image.load("C:\\Users\\aurac\\Downloads\\Game\\6 stars.png").convert()
+        imp = pygame.image.load("6 stars.png").convert()
         screen.blit(imp, (0, 0))
         pygame.display.flip()
 
@@ -894,7 +894,7 @@ while running:
 
     run = True
     while run:
-        imp = pygame.image.load("C:\\Users\\aurac\\Downloads\\Game\\7 stars.png").convert()
+        imp = pygame.image.load("7 stars.png").convert()
         screen.blit(imp, (0, 0))
         pygame.display.flip()
 
@@ -1015,7 +1015,7 @@ while running:
 
     run = True
     while run:
-        imp = pygame.image.load("C:\\Users\\aurac\\Downloads\\Game\\8 stars.png").convert()
+        imp = pygame.image.load("8 stars.png").convert()
         screen.blit(imp, (0, 0))
         pygame.display.flip()
 
@@ -1136,7 +1136,7 @@ while running:
 
     run = True
     while run:
-        imp = pygame.image.load("C:\\Users\\aurac\\Downloads\\Game\\9 stars.png").convert()
+        imp = pygame.image.load("9 stars.png").convert()
         screen.blit(imp, (0, 0))
         pygame.display.flip()
 
@@ -1262,7 +1262,7 @@ while running:
 
     run = True
     while run:
-        imp = pygame.image.load("C:\\Users\\aurac\\Downloads\\Game\\10 stars.png").convert()
+        imp = pygame.image.load("10 stars.png").convert()
         screen.blit(imp, (0, 0))
         pygame.display.flip()
 
@@ -1378,7 +1378,7 @@ while running:
 
     run = True
     while run:
-        imp = pygame.image.load("C:\\Users\\aurac\\Downloads\\Game\\11 stars.png").convert()
+        imp = pygame.image.load("11 stars.png").convert()
         screen.blit(imp, (0, 0))
         pygame.display.flip()
 
@@ -1504,7 +1504,7 @@ while running:
 
     run = True
     while run:
-        imp = pygame.image.load("C:\\Users\\aurac\\Downloads\\Game\\12 stars.png").convert()
+        imp = pygame.image.load("12 stars.png").convert()
         screen.blit(imp, (0, 0))
         pygame.display.flip()
 
@@ -1630,7 +1630,7 @@ while running:
 
     run = True
     while run:
-        imp = pygame.image.load("C:\\Users\\aurac\\Downloads\\Game\\13 stars.png").convert()
+        imp = pygame.image.load("13 stars.png").convert()
         screen.blit(imp, (0, 0))
         pygame.display.flip()
 
@@ -1675,7 +1675,7 @@ while running:
 
     run = True
     while run:
-        imp = pygame.image.load("C:\\Users\\aurac\\Downloads\\Game\\end.jpg").convert()
+        imp = pygame.image.load("end.jpg").convert()
         screen.blit(imp, (0, 0))
         pygame.display.flip()
 
